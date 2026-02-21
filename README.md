@@ -1,69 +1,98 @@
+<!-- CYBER HEADER -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hiumabar;Creative+Explorer+%F0%9F%9A%80;Idea+Machine+%F0%9F%92%A1;Gamer+at+Heart+%F0%9F%8E%AE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=00F0FF&center=true&vCenter=true&width=900&lines=HIUMABAR;Dark+System+Architect;Founder+Mindset;Code+%7C+Discipline+%7C+Power" />
 </h1>
 
 <p align="center">
-  🚀 Creative Explorer • 💡 Idea Machine • 🎮 Gamer at Heart
+  <img src="https://img.shields.io/badge/FOUNDER-Next%20Level-00F0FF?style=for-the-badge&logo=ghost&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DARK_MODE-ACTIVATED-0A0A0A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SYSTEM-BUILDER-111111?style=for-the-badge&logo=matrix&logoColor=00F0FF"/>
 </p>
 
 ---
 
-### ✨ About Me
-- 🔭 Not working on any major project (yet), but I love tinkering and imagining  
-- 🌱 Currently diving into **creative coding**, **AI tools**, and **game design**  
-- 🎨 Tech meets art—where code becomes canvas  
-- 📚 Always learning, always imagining  
-- 🧠 Fueled by creativity, driven by curiosity  
+# 🧠 Identity
+
+Saya **Hiumabar**.  
+Membangun sistem. Bukan sekadar proyek.
+
+> “Discipline creates identity. Identity creates power.”
 
 ---
 
-### 🛠️ Skills & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-</p>
-
-- 💬 I also use: Markdown, Git, Canva, VS Code, and ChatGPT  
-- 🎨 Interests: Minecraft concepts, fan creations, worldbuilding, storytelling  
-
----
-
-### 📌 Fun Ideas I’ve Explored
-
-- 🌌 Skyblock World Concepts (MCPE)
-- 🧬 Pokémon RP Discord Systems
-- 🌀 Original Fictional Universes
-- 🖌️ Skinpack Experiments
-
----
-
-### 📊 GitHub Stats
+# ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hiumabar&show_icons=true&theme=tokyonight" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,github,netlify&theme=dark"/>
+
+</p>
+
+Core Focus:
+- Frontend Engineering
+- Interactive System Logic
+- Digital Product Building
+- Growth Discipline Framework
+
+---
+
+# 📊 Cyber Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hiumabar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hiumabar&theme=tokyonight&hide_border=true&background=000000"/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hiumabar&theme=tokyo-night&hide_border=true&bg_color=000000"/>
 </p>
 
 ---
 
-### 🌐 Let's Connect
+# 🐍 Contribution Snake
 
-<p align="left">
-  <a href="https://github.com/Hiumabar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hiumabar/Hiumabar/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🧠 Dynamic Quote Generator
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
+
+---
+
+# 🌐 Network
+
+<p align="center">
+  <a href="https://github.com/Hiumabar">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F0FF"/>
   </a>
-  <a href="https://discord.com/users/960032993496416296" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://instagram.com/hiumabar">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
   </a>
-  <a href="https://www.instagram.com/hiumabar" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://tiktok.com/@hiumabar">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
-  <a href="mailto:hallintar.gaming@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://x.com/hiumabar">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-_“Creativity is intelligence having fun.” – Albert Einstein_
+# 🚀 Current Protocol
+
+- Building Zenith-class digital systems  
+- Improving architecture thinking  
+- Scaling consistency  
+
+---
+
+<p align="center">
+⚡ Dark Mindset. Clean Execution.  
+⚔️ Build. Refine. Dominate.
+</p>
